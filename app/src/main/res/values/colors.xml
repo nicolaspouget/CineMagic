@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Bleu / Move -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Bleu foncé -->
+    <color name="colorAccent">#03DAC5</color> <!-- Bleu / vert clair -->
+    <color name="background_light">#42b9c2</color> <!-- Bleu clair -->
+    <color name="background_dark">#285f6d</color> <!-- Bleu gris foncé -->
+    <color name="bottom_navigation_bar">#1A283C</color> <!-- Bleu dark -->
+
+    <color name="end_gradiant_background">#263E60</color> <!-- Bleu foncé -->
+    <color name="start_gradiant_background">#0A1018</color> <!-- Bleu nuit -->
+
+</resources>

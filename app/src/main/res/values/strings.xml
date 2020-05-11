@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CineMagic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bottom_menu_text_home">Home</string>
+    <string name="bottom_menu_text_shop">Shop</string>
+    <string name="bottom_menu_text_rank">Rank</string>
+    <string name="bottom_menu_text_profil">Profil</string>
+    <string name="input_code_partie">Entrer le code de la partie</string>
+</resources>
